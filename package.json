@@ -1,0 +1,12 @@
+{
+  "name": "framework-agrv_ips",
+  "version": "1.0.0",
+  "description": "IP resources for developing on the AgRV Platform",
+  "keywords": [
+    "framework",
+    "IP",
+    "risc-v",
+    "agrv",
+    "agm"
+  ]
+}
